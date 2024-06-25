@@ -1,0 +1,7 @@
+com\example\producerconsumer\model\Message.class
+com\example\producerconsumer\util\LoggerUtil.class
+com\example\producerconsumer\config\AppConfig.class
+com\example\producerconsumer\util\MessageQueue.class
+com\example\producerconsumer\service\ProducerService.class
+com\example\producerconsumer\service\ConsumerService.class
+com\example\producerconsumer\ProducerConsumerApplication.class
